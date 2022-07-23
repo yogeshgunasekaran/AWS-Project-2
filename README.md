@@ -24,4 +24,4 @@ This project is to deploy a web-application in AWS cloud infrastructure using AW
 - Create CDN with SSL certificate
 - Update entry in GoDaddy DNS Zones
 - Test the URL
-- 
+
