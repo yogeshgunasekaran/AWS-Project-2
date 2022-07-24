@@ -25,3 +25,4 @@ This project is to deploy a web-application in AWS cloud infrastructure using AW
 - Update load balancer endpoint entry in GoDaddy DNS Zones. Alternatively, we can also use AWS Route 53 public DNS Zone for this
 - Test the URL
 
+ 
